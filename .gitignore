@@ -1,0 +1,15 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files (e.g., VS Code, Sublime Text, etc.)
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files and directories
+node_modules/ # If you were using npm or yarn (you likely won't need this for this simple app)
+*.log
+*.tmp
+tmp/
+temp/
